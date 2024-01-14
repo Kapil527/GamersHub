@@ -16,7 +16,7 @@ export const Logo = () => {
       </div>
       <div className={cn("flex flex-col items-center", font.className)}>
         <p className="text-sl font-semibold">GamersHub</p>
-        <p className="text-sm text-muted-foreground">Let's Play</p>
+        <p className="text-sm text-muted-foreground">Let&apos;s Play</p>
       </div>
     </div>
   );
